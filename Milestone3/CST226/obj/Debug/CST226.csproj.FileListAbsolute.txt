@@ -1,0 +1,7 @@
+C:\Users\mcrog\source\repos\CST226\CST226\bin\Debug\CST226.exe.config
+C:\Users\mcrog\source\repos\CST226\CST226\bin\Debug\CST226.exe
+C:\Users\mcrog\source\repos\CST226\CST226\bin\Debug\CST226.pdb
+C:\Users\mcrog\source\repos\CST226\CST226\obj\Debug\CST226.csprojResolveAssemblyReference.cache
+C:\Users\mcrog\source\repos\CST226\CST226\obj\Debug\CST226.csproj.CoreCompileInputs.cache
+C:\Users\mcrog\source\repos\CST226\CST226\obj\Debug\CST226.exe
+C:\Users\mcrog\source\repos\CST226\CST226\obj\Debug\CST226.pdb
