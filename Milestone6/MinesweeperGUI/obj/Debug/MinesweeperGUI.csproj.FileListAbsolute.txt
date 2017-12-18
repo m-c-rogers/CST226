@@ -1,0 +1,12 @@
+C:\Users\mcrog\source\repos\MinesweeperGUI\MinesweeperGUI\bin\Debug\MinesweeperGUI.exe.config
+C:\Users\mcrog\source\repos\MinesweeperGUI\MinesweeperGUI\bin\Debug\MinesweeperGUI.exe
+C:\Users\mcrog\source\repos\MinesweeperGUI\MinesweeperGUI\bin\Debug\MinesweeperGUI.pdb
+C:\Users\mcrog\source\repos\MinesweeperGUI\MinesweeperGUI\obj\Debug\MinesweeperGUI.csprojResolveAssemblyReference.cache
+C:\Users\mcrog\source\repos\MinesweeperGUI\MinesweeperGUI\obj\Debug\MinesweeperGUI.GameBoard.resources
+C:\Users\mcrog\source\repos\MinesweeperGUI\MinesweeperGUI\obj\Debug\MinesweeperGUI.Properties.Resources.resources
+C:\Users\mcrog\source\repos\MinesweeperGUI\MinesweeperGUI\obj\Debug\MinesweeperGUI.csproj.GenerateResource.Cache
+C:\Users\mcrog\source\repos\MinesweeperGUI\MinesweeperGUI\obj\Debug\MinesweeperGUI.csproj.CoreCompileInputs.cache
+C:\Users\mcrog\source\repos\MinesweeperGUI\MinesweeperGUI\obj\Debug\MinesweeperGUI.exe
+C:\Users\mcrog\source\repos\MinesweeperGUI\MinesweeperGUI\obj\Debug\MinesweeperGUI.pdb
+C:\Users\mcrog\source\repos\MinesweeperGUI\MinesweeperGUI\obj\Debug\MinesweeperGUI.StartScreen.resources
+C:\Users\mcrog\source\repos\MinesweeperGUI\MinesweeperGUI\obj\Debug\MinesweeperGUI.HighScore.resources
